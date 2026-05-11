@@ -2,6 +2,5 @@
   "buildCommand": "pnpm build",
   "outputDirectory": "dist",
   "installCommand": "pnpm install --frozen-lockfile",
-  "framework": "other",
-  "nodeVersion": "18.x"
+  "framework": "other"
 }
